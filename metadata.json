@@ -1,0 +1,6 @@
+{
+  "name": "Hoa Văn Học Viện - Hệ Thống Học Tiếng Trung MVC",
+  "description": "Nền tảng học tiếng Trung trực tuyến theo mô hình MVC với hệ thống khóa học HSK, phòng luyện Hán tự, bài kiểm tra năng lực và theo dõi tiến độ học tập hàng ngày.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
